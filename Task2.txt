@@ -1,0 +1,16 @@
+2.Write a blog about objects and its internal representation in Javascript
+
+    *Objects are one of the most important concepts in JavaScript. 
+     They are used to store and organize data in a way that makes 
+     it easy to access and manipulate.
+
+    *An object is a collection of properties. Properties are pairs of
+     names and values. The name is the key to the value. You can access 
+     a value by using the name of the property.
+
+         const mybike = {
+              make: "pulsar",
+              model: "150",
+              year: "2001",
+            };   
+ 

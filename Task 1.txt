@@ -1,0 +1,42 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2
+
+   * HTTP/1.1 and HTTP/2 are the two most widely used versions of the Hypertext Transfer Protocol (HTTP), 
+     the foundation of the World Wide Web. HTTP/2 is a major update to HTTP/1.1 that offers a number of 
+     performance improvements,including:
+
+      Multiplexing:
+
+           HTTP/2 can send multiple requests and responses over a single TCP connection, 
+           which reduces the number of round trips required and improves performance.
+
+      Header compression:
+
+           HTTP/2 uses a more efficient header compression algorithm, which reduces the 
+           size of HTTP messages and improves performance.
+
+     Server push:
+
+           HTTP/2 allows the server to push resources to the client before the client requests them,
+           which can reduce the number of requests required and improve performance.
+
+
+     The benefits of HTTP/2 include:
+
+
+             Improved performance:
+                   
+                    HTTP/2 can significantly improve the performance of websites and web applications.
+             
+             Reduced bandwidth usage:
+
+                   HTTP/2 can reduce the amount of bandwidth required to load websites and web applications.
+                   
+             Improved security:
+
+                    HTTP/2 uses a number of security features that can improve the security of websites and web applications.
+
+
+
+             To speed up web performance, both HTTP/1.1 and HTTP/2 compress HTTP messages to make them smaller.
+             However, HTTP/2 uses a more advanced compression method called HPACK that eliminates redundant 
+             information in HTTP header packets. This eliminates a few bytes from every HTTP packet.
